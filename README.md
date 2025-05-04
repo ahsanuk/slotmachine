@@ -98,7 +98,6 @@ What is required to play the game on your device.
 ### Installation
 
 Once you have downloaded the Java SE Development Kit Follow the link below setup your Java SE Development Kit for macOS or Windows OS.
-* By <a href="https://github.com/mohanpedala"> Mohan P Edala </a>
   ```sh
   https://gist.github.com/mohanpedala/700910ee504ed7f12bdf0249ca7d11e2
   ```
